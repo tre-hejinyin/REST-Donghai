@@ -1,0 +1,4 @@
+[service]
+port = 8080
+[jwt]
+tokenExpired = 172800       #sec
