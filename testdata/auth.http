@@ -5,7 +5,7 @@ Content-Type: application/json
 {
   "first_name": "first_name_a",
   "last_name": "last_name_a",
-  "email": "email@abc.com",
+  "email": "email@abcdef.com",
   "password": "123456"
 }
 
@@ -14,7 +14,7 @@ POST http://localhost:8080/v1/signin
 Content-Type: application/json
 
 {
-  "email": "email@abc.com",
+  "email": "email@abcdef.com",
   "password": "123456"
 }
 
